@@ -3,12 +3,13 @@ The Junior Mentor Program 2025 Project #1 Password-Validator
 Project - In this project, I needed to create a simple password validator and had to take a few parameters into consideration and apply restrictions. 
 
 Features - The key features of this password validator were to include:
-# Store the user's input in the password variable.
-# Check if the password is in the list of common passwords
-# List of common passwords
-# illiminate common_passwords = ["password", "123456", "123456789", "12345678", "12345", "1234567", "qwerty", "abc123", "password1", "iloveyou"]
-# Check if the password is valid
-# Check if the password contains at least one uppercase letter, one lowercase letter, one digit, and one special character
+Store the user's input in the password variable.
+Check if the password is in the list of common passwords
+List of common passwords
+illiminate common_passwords = ["password", "123456", "123456789", "12345678", "12345", "1234567", "qwerty", "abc123", "password1", "iloveyou"]
+Check if the password is valid
+Check if the password contains at least one uppercase letter, one lowercase letter, one digit, and one special character
+
 
 Tech Stack - Python
 
