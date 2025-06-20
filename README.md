@@ -1,4 +1,4 @@
- The Junior Mentor Program 2025 Project #1 Password-Validator
+The Junior Mentor Program 2025 Project #1 Password-Validator
 
 Project - In this project, I needed to create a simple password validator and had to take a few parameters into consideration and apply restrictions. 
 
@@ -18,5 +18,6 @@ Lessons Learnt - I rewrote the code more than once or twice in order build a fun
 
 Areas of Improvements - Python concepts and functions. 
 
-Overall Growth - Pracitise makes perfect! The more code you practise the better at it you will get, specially in Python. 
+Overall Growth - Pracitise makes perfect! The more code you practise the better at it you will get, specially in Python.
+
 
